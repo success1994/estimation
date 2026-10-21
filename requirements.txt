@@ -1,0 +1,8 @@
+numpy==2.4.4
+scipy==1.17.1
+pandas==3.0.3
+statsmodels==0.14.6
+patsy==1.0.2
+matplotlib==3.10.9
+tqdm==4.70.1
+modal  # only for modal_run/sim_tau.py and modal_run/realdata_modal.py

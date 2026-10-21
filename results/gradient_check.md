@@ -1,0 +1,45 @@
+# Gradient checks
+Complex-step gradients compared with independent three-point central differences on three seeded random datasets per family.
+
+- Dataset 0, UW, gamma=0.0, logit: scaled maximum error 7.71e-11.
+- Dataset 0, UW, gamma=0.1, logit: scaled maximum error 1.7e-10.
+- Dataset 0, UW, gamma=0.3, logit: scaled maximum error 7.76e-11.
+- Dataset 0, UW, gamma=0.5, logit: scaled maximum error 1.13e-10.
+- Dataset 0, UW, gamma=0.3, original: scaled maximum error 9.26e-11.
+- Dataset 0, KW, gamma=0.0, logit: scaled maximum error 1.01e-10.
+- Dataset 0, KW, gamma=0.1, logit: scaled maximum error 2.38e-10.
+- Dataset 0, KW, gamma=0.3, logit: scaled maximum error 1.79e-10.
+- Dataset 0, KW, gamma=0.5, logit: scaled maximum error 5.11e-11.
+- Dataset 0, KW, gamma=0.3, original: scaled maximum error 1.35e-09.
+- Dataset 0, Beta, gamma=0.0, logit: scaled maximum error 7.99e-11.
+- Dataset 0, Beta, gamma=0.1, logit: scaled maximum error 2.32e-10.
+- Dataset 0, Beta, gamma=0.3, logit: scaled maximum error 6.68e-11.
+- Dataset 0, Beta, gamma=0.5, logit: scaled maximum error 3.84e-11.
+- Dataset 1, UW, gamma=0.0, logit: scaled maximum error 1.46e-10.
+- Dataset 1, UW, gamma=0.1, logit: scaled maximum error 2.46e-10.
+- Dataset 1, UW, gamma=0.3, logit: scaled maximum error 1.85e-10.
+- Dataset 1, UW, gamma=0.5, logit: scaled maximum error 1.13e-10.
+- Dataset 1, UW, gamma=0.3, original: scaled maximum error 3.67e-10.
+- Dataset 1, KW, gamma=0.0, logit: scaled maximum error 1.03e-10.
+- Dataset 1, KW, gamma=0.1, logit: scaled maximum error 2.37e-10.
+- Dataset 1, KW, gamma=0.3, logit: scaled maximum error 1.17e-10.
+- Dataset 1, KW, gamma=0.5, logit: scaled maximum error 5.26e-11.
+- Dataset 1, KW, gamma=0.3, original: scaled maximum error 3.56e-10.
+- Dataset 1, Beta, gamma=0.0, logit: scaled maximum error 3.71e-11.
+- Dataset 1, Beta, gamma=0.1, logit: scaled maximum error 1.92e-10.
+- Dataset 1, Beta, gamma=0.3, logit: scaled maximum error 7.61e-11.
+- Dataset 1, Beta, gamma=0.5, logit: scaled maximum error 3.3e-11.
+- Dataset 2, UW, gamma=0.0, logit: scaled maximum error 1.13e-10.
+- Dataset 2, UW, gamma=0.1, logit: scaled maximum error 1.23e-10.
+- Dataset 2, UW, gamma=0.3, logit: scaled maximum error 6.95e-11.
+- Dataset 2, UW, gamma=0.5, logit: scaled maximum error 5.63e-11.
+- Dataset 2, UW, gamma=0.3, original: scaled maximum error 1.33e-10.
+- Dataset 2, KW, gamma=0.0, logit: scaled maximum error 9.37e-11.
+- Dataset 2, KW, gamma=0.1, logit: scaled maximum error 1.55e-10.
+- Dataset 2, KW, gamma=0.3, logit: scaled maximum error 1.07e-10.
+- Dataset 2, KW, gamma=0.5, logit: scaled maximum error 9.94e-11.
+- Dataset 2, KW, gamma=0.3, original: scaled maximum error 2.39e-09.
+- Dataset 2, Beta, gamma=0.0, logit: scaled maximum error 5.16e-11.
+- Dataset 2, Beta, gamma=0.1, logit: scaled maximum error 2.01e-10.
+- Dataset 2, Beta, gamma=0.3, logit: scaled maximum error 6.2e-11.
+- Dataset 2, Beta, gamma=0.5, logit: scaled maximum error 3.94e-11.

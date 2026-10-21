@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv*/
+# decompressed simulation output (the .csv.gz files are tracked)
+results_full/sim_fits.csv
+results_tau/sim_tau.csv
+paper/figures/png/
